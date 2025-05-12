@@ -5,11 +5,11 @@ import { Menu, X } from "lucide-react";
 const menuItems = [
   { name: "Home", path: "/" },
   { name: "About", path: "/about" },
-  { name: "Student Corner", path: "/student-corner" },
+  // { name: "Student Corner", path: "/student-corner" },
   { name: "Admission", path: "/admission" },
   { name: "Academics", path: "/academics" },
-  { name: "Career", path: "/career" },
-  { name: "Gallery", path: "/gallery" },
+  // { name: "Career", path: "/career" },
+  // { name: "Gallery", path: "/gallery" },
   { name: "Major Events", path: "/major-events" },
   { name: "Contact", path: "/contact" },
 ];
