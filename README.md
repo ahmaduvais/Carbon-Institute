@@ -1,7 +1,8 @@
-# 🏫 Navy Children School Website
 
-This is a **fully responsive** and **dynamic** school website built using **React, React Router, and Tailwind CSS**.  
-The website includes various pages such as **Home, About, Student Corner, CBSE Disclosure, Admission, Academics, Beyond Academics, Career, Major Events, Gallery, and Contact**.
+# 🏫 Carbon Institute of Paramedical Science Website
+
+This is a **fully responsive** and **dynamic** college website built using **React, React Router, and Tailwind CSS**.  
+The website includes various pages such as **Home, About, Admission, Academics, Career, Major Events, Gallery, and Contact**.
 
 ---
 
@@ -35,10 +36,10 @@ This project uses the following libraries:
 ### **1️⃣ Clone the Repository**
 ```bash
 
-cd School
+cd College-Website
 
 
-/navy-children-school
+/College-Website
  ├── /src
  │   ├── /components
  │   │   ├── Navbar.jsx
@@ -62,3 +63,10 @@ cd School
  │   ├── index.css
  ├── package.json
  ├── README.md
+
+# College-Website
+Carbon Institute of Paramedical Science
+19d91aa74ca1267dcd76fbefefbf140e157d8285
+# College-Website
+Carbon Institute of Paramedical Science
+19d91aa74ca1267dcd76fbefefbf140e157d8285
