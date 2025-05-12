@@ -28,11 +28,11 @@ const Footer = () => {
                 Admissions
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="/gallery" className="hover:underline">
                 Gallery
               </Link>
-            </li>
+            </li> */}
             <li>
               <Link to="/contact" className="hover:underline">
                 Contact Us
@@ -44,13 +44,13 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-semibold">Follow Us</h3>
           <div className="flex justify-center md:justify-start space-x-4 mt-3">
-            <a href="#" className="hover:text-gray-300">
+            <a href="https://www.facebook.com/p/Carbon-Institute-of-Paramedical-Science-Kasganj-61573842816946/" className="hover:text-gray-300">
               <Facebook size={24} />
             </a>
             <a href="#" className="hover:text-gray-300">
               <Twitter size={24} />
             </a>
-            <a href="#" className="hover:text-gray-300">
+            <a href="www.instagram.com/carbon.institute/" className="hover:text-gray-300">
               <Instagram size={24} />
             </a>
           </div>
