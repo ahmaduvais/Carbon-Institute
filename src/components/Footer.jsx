@@ -50,7 +50,7 @@ const Footer = () => {
             <a href="#" className="hover:text-gray-300">
               <Twitter size={24} />
             </a>
-            <a href="www.instagram.com/carbon.institute/" className="hover:text-gray-300">
+            <a href="https://www.instagram.com/carbon.institute/" className="hover:text-gray-300">
               <Instagram size={24} />
             </a>
           </div>
